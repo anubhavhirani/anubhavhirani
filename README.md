@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anubhavhirani
 - 👀 I’m interested in open source / self hosted projects
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on sharing a beautiful girlfriend
+
 - 📫 How to reach me : don't ?
 
 <!---
